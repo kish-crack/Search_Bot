@@ -1,0 +1,135 @@
+#logo{
+    font-family: cursive;
+}
+#stat{ 
+    display: flex;
+    list-style-type: none;
+    margin-right: 5vw;
+    margin-left: 73vw;
+    font-family: cursive;
+    font-size: 1rem;
+    
+  
+}
+.main
+{
+    margin-left: 3vw;
+    position: relative;
+}
+#stats{
+    display: inline;
+    text-decoration: none;
+}
+#logos
+{
+display: flex;
+border-radius: 34px;
+margin-left: 4vw;
+ margin-top: 1px;
+ margin-bottom: 1vw;}
+
+
+#txt{
+
+    box-sizing: border-box;
+    margin-top: 3vw;
+    margin-left: 32vw;
+    border-radius: 9px;
+    width: 30vw;
+    height: 2vw;
+    font-size: 1rem;
+
+}
+
+#btn{
+ 
+    display: block;
+    margin-left: 45vw;
+    margin-top: 2vw;
+    padding: 2px;
+    margin-bottom: 24px;
+    border-radius: 4px;
+    font-family: cursive;
+    background-color: #1a73e8;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+        
+}
+#searchBot{
+    margin-top: 1vw;
+    margin-bottom: 2vw;
+    margin-left: 40.5vw;
+    height: 194px;
+    display: inline;
+}
+.feel{
+    margin-left: 36vw;
+    font-family: cursive;
+    font-size: 1rem;
+    margin-top: 5vw;
+
+}
+#feel1{
+    margin-left: 2vw;
+    text-decoration: none;
+    font-size: 1rem;
+  
+}
+#langs{
+    font-family: cursive;
+    margin: 0.5vw;
+    font-size: smaller;
+    text-decoration: none;
+    font-size: 1rem;
+}
+.lang{
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+    padding-left: 33vw;
+    font-size: 1rem;
+}
+.ftr{
+    font-family: cursive;
+    font-size: smaller;
+    text-decoration: none;
+    color: rgba(0,0,0,.54);
+    background-color: #f2f2f2;
+    padding-bottom: 3vw;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  
+
+}
+#ftr2{
+    margin-bottom: 2vw;
+    
+}
+#ftr1{
+
+    color:rgba(0,0,0,.54);
+    text-decoration: none;
+    padding: 4px;
+    font-size: 0.9rem;
+   
+  
+}
+#___gcse_0{
+    padding-right: 26vw;
+    padding-left: 26vw;
+    
+}
+#gsc-iw-id1{
+    border-radius: 10vw;
+}
+.gsc-search-button-v2{
+    border-color: #3079ED;
+    background-color: #4D90FE;
+    background-image: none;
+    filter: none;
+    border-radius: 2vw;
+z-index: 1;}
+
+
